@@ -1,2 +1,2 @@
 # Assignment-2
-Second assignment of HTML
+Second assignment of HTML (Paragraph Formatting)
